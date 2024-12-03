@@ -1,0 +1,12 @@
+Entrée	Carottes râpées	0.90
+Plat	Steak	3.55
+Plat	Frites	2.10
+Fromage	Camembert	0.70
+Dessert	Pomme	0.70
+5 items
+TOTAL: 7.95 €
+Plat	Steak	3.55
+Plat	Frites	2.10
+Dessert	Pomme	0.70
+3 items
+TOTAL: 6.35 €
